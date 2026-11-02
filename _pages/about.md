@@ -36,7 +36,7 @@ I'm happy to talk about research. Feel free to email me.
 
 - **Geographic Bias Evaluation in Text-to-Image Generation** (Jan – May 2025)  
   Responsible AI course project, WPI. Advisor: Prof. Raha Moraffah  
-  Compared four text-to-image models (DALL·E 2, Stable Diffusion, Gemini-2, Kandinsky) across five world regions using ten image-quality metrics and structured human annotation. Found that automatic scores missed stereotyping that human annotators caught.
+  We studied how text-to-image models depict different regions of the world and found that standard image-quality metrics miss the stereotyping that    human annotators notice.
 
 # Teaching
 
@@ -45,5 +45,5 @@ I'm happy to talk about research. Feel free to email me.
 
 # Experience
 
-- Applied GenAI Engineer Intern, NxtWave Disruptive Technologies, Jun – Nov 2025  
-  Built GenAI pipelines and a four-agent system (transcription, question generation, document QA) used by 500+ students daily.
+- Applied GenAI Engineer Intern, NxtWave Disruptive Technologies, 2025
+Built LLM-based tools for an online learning platform, including a transcription pipeline and a document Q&A and coding assistant chatbot.
